@@ -2,7 +2,6 @@
 - 👀 I’m interested in stocks, sports, and music.
 - 🌱 I’m currently learning webhooks coding with python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: connor_kyle1@outlook.com
 
 <!---
 ckck02/ckck02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
